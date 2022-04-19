@@ -191,7 +191,7 @@ questions = [{
   }
 }, {
   "id": 31,
-  "question": "The current amournt of staff surveys is excessive and should be scaled back again to two surveys per year.",
+  "question": "The current amount of staff surveys is excessive and should be scaled back again to two surveys per year.",
   "effects": {
     "right": 0.5
   }  
@@ -226,6 +226,13 @@ questions = [{
   "question": "Tickets and reports are an effective method of detecting incidents of rule-breaking behavior.",
   "effects": {
     "right": -0.5
+  }     
+  
+}, {
+  "id": 36,
+  "question": "The outcome of the Electiongate scandal was negative and should be reversed.",
+  "effects": {
+    "right": 2
   }      
   
 }];
