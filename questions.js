@@ -233,6 +233,27 @@ questions = [{
   "question": "The outcome of the Electiongate scandal was negative and should be reversed.",
   "effects": {
     "right": 2
+  } 
+  
+  }, {
+  "id": 38,
+  "question": "The current staff team is far from ideal and several of the staff members should be stripped from their positions.",
+  "effects": {
+    "right": 4
+    "strict": -4
   }      
   
+  }, {
+  "id": 39,
+  "question": "Certain group chats should not have any influence over staff decisions.",
+  "effects": {
+    "strict": -0.5
+  }
+    
+     }, {
+  "id": 40,
+  "question": "The current staff team is unfairly biased against certain users because of their beliefs.",
+  "effects": {
+    "strict": -0.5
+  }    
 }];
