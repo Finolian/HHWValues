@@ -239,7 +239,7 @@ questions = [{
   "id": 38,
   "question": "The current staff team is far from ideal and several of the staff members should be stripped from their positions.",
   "effects": {
-    "right": 4
+    "right": 4,
     "strict": -4
   }      
   
