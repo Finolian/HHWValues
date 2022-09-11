@@ -250,7 +250,7 @@ questions = [{
     "strict": -0.5
   }
     
-     }, {
+  }, {
   "id": 40,
   "question": "The current staff team is unfairly biased against certain users because of their beliefs.",
   "effects": {
